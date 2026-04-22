@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #fffaf5;
+    background-color: #a8cd7f;
 }
 
 /* Judul utama */
@@ -18,12 +18,12 @@ h2 {
 /* Judul section */
 h3 {
     font-weight: 500;
-    color: #555;
+    color: #7d0d58;
 }
 
 /* Paragraf */
 p {
-    color: #333;
+    color: #1e1d1d;
     line-height: 1.6;
 }
 
